@@ -1,6 +1,6 @@
 # React App
 
-This is my first React app I have done 👩‍💻
+This is my first React app 👩‍💻
 
 ## How to run 
 This is a React project so it is needs all the depenceis 
